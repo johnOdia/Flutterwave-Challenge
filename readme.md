@@ -1,0 +1,1 @@
+this project is a simple rule validation API
